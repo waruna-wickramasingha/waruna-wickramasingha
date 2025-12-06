@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @waruna-wickramasingha
-- 👀 I’m a professional software engineer with 7+ years of industrial experience in software development in Capital markets, Medical, Telecommunication, Data Engineering, Machine Learning and Artificial Intelligence domains.
-- 🌱 I am an AWS certified Solutions Architect Associate.
-- 🌱 In 2021, I have completed my MSc in Computer Science with a first-class specialized on Data Science, Engineering and Analytics from University of Moratuwa, Sri Lanka.
-- 🌱 In 2015, I have completed my BSc Engineering Honors degree with a second-class upper in Electronic and Telecommunication Engineering from University of Moratuwa, Sri Lanka.
-- 🌱 In 2009, I completed my Advanced Levels in Mathematics stream from Sri Lanka achieving 94th rank in the country.
+👋 Hi there, I’m Waruna Wickramasingha
 
+💻 I am a **Professional Software Engineer** with 10+ years of experience across:  
+- Scientific Computing  
+- Capital Markets  
+- Medical Technology  
+- Telecommunications  
+- Data Engineering  
+- Machine Learning & Artificial Intelligence
+  
+**Educational background**
+
+- 🎓 **Postgraduate Certificate in Computing** 🏅 with **Distinction** | Bournemouth University, United Kingdom (2023)
+- 🎓 **MSc in Computer Science** (Data Science, Engineering & Analytics) 🏅 **First-Class Honors** | University of Moratuwa, Sri Lanka (2021)
+- 🎓 **BSc Engineering Honors degree** (Electronic and Telecommunication Engineering) 🏅 **Second-Class Upper** |  University of Moratuwa, Sri Lanka (2015)
+- 🎓  **Advanced Levels** (Mathematics stream) 🏅 **94th rank in the country** | Sri Lanka (2019)
+
+📫 Reach me via | LinkedIn:https://www.linkedin.com/in/waruna-priyankara-wickramasingha/ | email:jap.waruna@gmail.com
 
 <!---
 - 📫 Reach me via | LinkedIn:https://www.linkedin.com/in/waruna-priyankara-wickramasingha/ | email:jap.waruna@gmail.com
