@@ -8,12 +8,12 @@
 - Data Engineering  
 - Machine Learning & Artificial Intelligence
   
-**Educational background**
+🎓**Educational background**
 
-- 🎓 **Postgraduate Certificate in Computing** 🏅 with **Distinction** | Bournemouth University, United Kingdom (2023)
-- 🎓 **MSc in Computer Science** (Data Science, Engineering & Analytics) 🏅 **First-Class Honors** | University of Moratuwa, Sri Lanka (2021)
-- 🎓 **BSc Engineering Honors degree** (Electronic and Telecommunication Engineering) 🏅 **Second-Class Upper** |  University of Moratuwa, Sri Lanka (2015)
-- 🎓  **Advanced Levels** (Mathematics stream) 🏅 **94th rank in the country** | Sri Lanka (2019)
+- **Postgraduate Certificate in Computing** 🏅 with **Distinction** | Bournemouth University, United Kingdom (2023)
+- **MSc in Computer Science** (Data Science, Engineering & Analytics) 🏅 **First-Class Honors** | University of Moratuwa, Sri Lanka (2021)
+- **BSc Engineering Honors degree** (Electronic and Telecommunication Engineering) 🏅 **Second-Class Upper** |  University of Moratuwa, Sri Lanka (2015)
+- **Advanced Levels** (Mathematics stream) 🏅 **94th rank in the country** | Sri Lanka (2019)
 
 📫 Reach me via | LinkedIn:https://www.linkedin.com/in/waruna-priyankara-wickramasingha/ | email:jap.waruna@gmail.com
 
