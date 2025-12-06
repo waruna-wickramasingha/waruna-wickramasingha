@@ -1,6 +1,6 @@
 👋 Hi there, I’m Waruna Wickramasingha
 
-💻 I am a **Professional Software Engineer** with 10+ years of experience across:  
+💻 I am a **Seasoned Software Engineer** with 10+ years of industrial experience across:  
 - Scientific Computing  
 - Capital Markets  
 - Medical Technology  
