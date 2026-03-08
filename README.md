@@ -15,7 +15,7 @@
 - **BSc Engineering Honors degree** (Electronic and Telecommunication Engineering) 🏅 **Second-Class Upper** |  University of Moratuwa, Sri Lanka (2015)
 - **Advanced Levels** (Mathematics stream) 🏅 **94th rank in the country** | Sri Lanka (2019)
 
-📫 Reach me via | LinkedIn:https://www.linkedin.com/in/waruna-priyankara-wickramasingha/ | email:jap.waruna@gmail.com
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/waruna-priyankara-wickramasingha/) | [email](jap.waruna@gmail.com) | [Website](https://waruna-wickramasingha.github.io/)
 
 <!---
 - 📫 Reach me via | LinkedIn:https://www.linkedin.com/in/waruna-priyankara-wickramasingha/ | email:jap.waruna@gmail.com
